@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Coding | Fitness | Anime | Tech**
 
-- 📫 How to reach me: [Email](amaar5ali@gmail.com)
+- 📫 How to reach me: **amaar5ali@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/17bcXfQcI--xxRC8UBOfKeKQp-AT0YWJh/view?usp=sharing)
 
