@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently improving my app: [Zen Training](https://js-react-hypertrophy-app.web.app/)
 
-- 👨‍💻 My website is available at: [https://zensconsulting.netlify.app/](https://zensconsulting.netlify.app/)
+- 👨‍💻 My website is available at: [Zen Consulting](https://zensconsulting.netlify.app/)
 
-- 📝 I write about coding/tech, anime/fitness/science: [https://medium.com/@ZenTheMC/bridging-pixels-and-pump-iron-a-futuristic-odyssey-531b8ee863d3](https://medium.com/@ZenTheMC/bridging-pixels-and-pump-iron-a-futuristic-odyssey-531b8ee863d3)
+- 📝 I write about coding/tech, anime/fitness/science: [Zen Stories](https://medium.com/@ZenTheMC/)
 
 - 💬 Ask me about: **Coding | Fitness | Anime | Tech**
 
