@@ -5,13 +5,13 @@
 
 - 👨‍💻 My website is available at: [Zen Consulting](https://zensconsulting.netlify.app/)
 
-- 📝 I write about coding/tech, anime/fitness/science: [Zen Stories](https://medium.com/@ZenTheMC/)
+- 📝 I write about coding/tech, anime/fitness/science: [Zen Writes](https://medium.com/@ZenTheMC/)
 
 - 💬 Ask me about: **Coding | Fitness | Anime | Tech**
 
-- 📫 How to reach me: **amaar5ali@gmail.com**
+- 📫 How to reach me: [Email](amaar5ali@gmail.com)
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/17bcXfQcI--xxRC8UBOfKeKQp-AT0YWJh/view?usp=sharing](https://drive.google.com/file/d/17bcXfQcI--xxRC8UBOfKeKQp-AT0YWJh/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/17bcXfQcI--xxRC8UBOfKeKQp-AT0YWJh/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm a techno-optimist, passionate about fitness, anime, & A.I.**
 
