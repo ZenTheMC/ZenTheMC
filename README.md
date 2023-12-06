@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)
 
-- ⚡ Fun fact: **I'm a techno-optimist, passionate about fitness, anime, & A.I.**
+- ⚡ Fun fact: **I'm an optimist, and passionate about fitness, anime, & A.I.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
