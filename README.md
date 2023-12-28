@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently improving my app: <kbd>[Zen Training](https://js-react-hypertrophy-app.web.app/)</kbd>
 
-- 👨‍💻 My website is available at: [Zen Consulting](https://zensconsulting.netlify.app/)
+- 👨‍💻 My website is available at: <kbd>[Zen Consulting](https://zensconsulting.netlify.app/)</kbd>
 
-- 📝 I write about coding/tech, anime/fitness/science: [Zen Writes](https://medium.com/@ZenTheMC/)
+- 📝 I write about coding/tech, anime/fitness/science: <kbd>[Zen Writes](https://medium.com/@ZenTheMC/)</kbd>
 
 - 💬 Ask me about: **Coding | Fitness | Anime | Tech**
 
-- 📫 How to reach me: **amaar5ali@gmail.com**
+- 📫 How to reach me: <kbd>**amaar5ali@gmail.com**</kbd>
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)
+- 📄 Know about my experiences: <kbd>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</kbd>
 
 - ⚡ Fun fact: **I'm an optimist, and passionate about fitness, anime, & A.I.**
 
