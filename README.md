@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amaar</h1>
 <h3 align="center">A passionate and driven full-stack software engineer</h3>
 
-- 🔭 I’m currently improving my app: [Zen Training](https://js-react-hypertrophy-app.web.app/)
+- 🔭 I’m currently improving my app: <kbd>[Zen Training](https://js-react-hypertrophy-app.web.app/)</kbd>
 
 - 👨‍💻 My website is available at: [Zen Consulting](https://zensconsulting.netlify.app/)
 
