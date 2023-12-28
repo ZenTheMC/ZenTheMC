@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amaar</h1>
 <h3 align="center">A passionate and driven full-stack software engineer</h3>
 
-- 🔭 I’m currently improving my app: <kbd>[Zen Training](https://js-react-hypertrophy-app.web.app/)</kbd>
+- 🔭 I’m currently improving my app: <kbd><strong>[Zen Training](https://js-react-hypertrophy-app.web.app/)</strong></kbd>
 
-- 👨‍💻 My website is available at: <kbd>[Zen Consulting](https://zensconsulting.netlify.app/)</kbd>
+- 👨‍💻 My website is available at: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
 
-- 📝 I write about coding/tech, anime/fitness/science: <kbd>[Zen Writes](https://medium.com/@ZenTheMC/)</kbd>
+- 📝 I write about coding/tech, anime/fitness/science: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
 
 - 💬 Ask me about: **Coding | Fitness | Anime | Tech**
 
-- 📫 How to reach me: <kbd>**amaar5ali@gmail.com**</kbd>
+- 📫 How to reach me: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
 
-- 📄 Know about my experiences: <kbd>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</kbd>
+- 📄 Know about my experiences: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
 - ⚡ Fun fact: **I'm an optimist, and passionate about fitness, anime, & A.I.**
 
