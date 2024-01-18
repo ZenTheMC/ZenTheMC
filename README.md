@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amaar</h1>
 <h3 align="center">A passionate and driven full-stack software engineer</h3>
 
-- 🔭 Check out my training app: <kbd><strong>[Zen Training](https://js-react-hypertrophy-app.web.app/)</strong></kbd>
+- 🔭 My Training App: <kbd><strong>[Zen Training](https://js-react-hypertrophy-app.web.app/)</strong></kbd>
 
-- 👨‍💻 My website is available at: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
+- 👨‍💻 My Website: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
 
-- 📝 I write about futurism and innovation: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
+- 📝 My Blog about Futurism: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
 
-- 💬 Ask me about: **Coding | Fitness | Anime | Tech**
+- 📫 Contact via email: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
 
-- 📫 Contact me via email: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
-
-- 📄 Check out my experiences: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
+- 📄 My experiences: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
 - ⚡ Fun fact: **I'm an optimist & futurist, passionate about fitness, anime, AI, and Robotics**
 
