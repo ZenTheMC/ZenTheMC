@@ -14,67 +14,55 @@
 <h1 align="center">
 Zen Training
 </h1>
-
-[//]: # (Add your gifs/images here:)
+<br />
 <div>
-  <img src="Zen Training vid.gif" alt="demo" height="200" width="200">
+  <img src="Zen Training vid.gif" alt="demo" height="425">
 </div>
-
 <hr />
 
 <h1 align="center">
 Zen Nutrition
 </h1>
-
-[//]: # (Add your gifs/images here:)
+<br />
 <div>
   <img src="Zen Nutrition vid.gif" alt="demo" height="425">
 </div>
-
 <hr />
 
 <h1 align="center">
 Zenith
 </h1>
-
-[//]: # (Add your gifs/images here:)
+<br />
 <div>
   <img src="Zenith vid.gif" alt="demo" height="425">
 </div>
-
 <hr />
 
 <h1 align="center">
 Nexus
 </h1>
-
-[//]: # (Add your gifs/images here:)
+<br />
 <div>
   <img src="Nexus vid.gif" alt="demo" height="425">
 </div>
-
 <hr />
 
 <h1 align="center">
 Hungry Lotus
 </h1>
-
-[//]: # (Add your gifs/images here:)
+<br />
 <div>
   <img src="Hungry Lotus vid.gif" alt="demo" height="425">
 </div>
-
 <hr />
 
 <h1 align="center">
 Portfolio
 </h1>
-
-[//]: # (Add your gifs/images here:)
+<br />
 <div>
   <img src="Portfolio vid.gif" alt="demo" height="425">
 </div>
-
 <hr />
 
 <h3 align="left">Connect with me:</h3>
