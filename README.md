@@ -17,7 +17,7 @@ Zen Training
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="Zen Training vid.gif" alt="demo" height="425">
+  <img src="Zen Training vid.gif" alt="demo" height="200" width="200">
 </div>
 
 <hr />
