@@ -22,6 +22,61 @@ Zen Training
 
 <hr />
 
+<h1 align="center">
+Zen Nutrition
+</h1>
+
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="Zen Nutrition vid.gif" alt="demo" height="425">
+</div>
+
+<hr />
+
+<h1 align="center">
+Zenith
+</h1>
+
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="Zenith vid.gif" alt="demo" height="425">
+</div>
+
+<hr />
+
+<h1 align="center">
+Nexus
+</h1>
+
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="Nexus vid.gif" alt="demo" height="425">
+</div>
+
+<hr />
+
+<h1 align="center">
+Hungry Lotus
+</h1>
+
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="Hungry Lotus vid.gif" alt="demo" height="425">
+</div>
+
+<hr />
+
+<h1 align="center">
+Portfolio
+</h1>
+
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="Portfolio vid.gif" alt="demo" height="425">
+</div>
+
+<hr />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zen_the_mc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zen_the_mc" height="30" width="40" /></a>
