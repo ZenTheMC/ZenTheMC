@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact: **I'm an optimist & futurist, passionate about fitness, anime, AI, and Robotics**
 
+- <h1><strong>HERE IS SOME OF MY WORK :</strong></h1>
+
 <h1 align="center">
 Zen Training
 </h1>
