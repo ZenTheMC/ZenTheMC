@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amaar</h1>
 <h3 align="center">A passionate and driven full-stack software engineer</h3>
 
-- 🔭 My Training App: <kbd><strong>[Zen Training](https://js-react-hypertrophy-app.web.app/)</strong></kbd>
-
 - 👨‍💻 My Website: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
 
 - 📝 My Blog about Futurism: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
@@ -12,6 +10,17 @@
 - 📄 My experiences: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
 - ⚡ Fun fact: **I'm an optimist & futurist, passionate about fitness, anime, AI, and Robotics**
+
+<h1 align="center">
+Zen Training
+</h1>
+
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="Zen Training vid.gif" alt="demo" height="425">
+</div>
+
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
