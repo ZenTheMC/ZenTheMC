@@ -14,10 +14,13 @@
 - <h1><strong>HERE IS SOME OF MY WORK :</strong></h1>
 
 <h1 align="center">
-Zen Training:
+Zen Training
 </h1>
+<div align="center">
 <a href=https://github.com/ZenTheMC/Zen-Training>Code</a>
+ || 
 <a href=https://js-react-hypertrophy-app.web.app>Live Site</a>
+</div>
 <br />
 <div>
   <img src="Zen Training vid.gif" alt="demo" height="425">
@@ -27,8 +30,11 @@ Zen Training:
 <h1 align="center">
 Zen Nutrition
 </h1>
+<div align="center">
 <a href=https://github.com/ZenTheMC/Zen-Nutrition>Code</a>
+ || 
 <a href=https://zen-nutrition.vercel.app>Live Site</a>
+</div>
 <br />
 <div>
   <img src="Zen Nutrition vid.gif" alt="demo" height="425">
@@ -38,8 +44,11 @@ Zen Nutrition
 <h1 align="center">
 Zenith
 </h1>
+<div align="center">
 <a href=https://github.com/ZenTheMC/Zenith>Code</a>
+ || 
 <a href=https://zenith-ug18.onrender.com>Live Site</a>
+</div>
 <br />
 <div>
   <img src="Zenith vid.gif" alt="demo" height="425">
@@ -49,8 +58,11 @@ Zenith
 <h1 align="center">
 Nexus
 </h1>
+<div align="center">
 <a href=https://github.com/ZenTheMC/Nexus>Code</a>
+ || 
 <a href=https://nexus-zen.vercel.app>Live Site</a>
+</div>
 <br />
 <div>
   <img src="Nexus vid.gif" alt="demo" height="425">
@@ -60,8 +72,11 @@ Nexus
 <h1 align="center">
 Hungry Lotus
 </h1>
+<div align="center">
 <a href=https://github.com/ZenTheMC/Hungry-Lotus>Code</a>
+ || 
 <a href=https://hungry-lotus.vercel.app>Live Site</a>
+</div>
 <br />
 <div>
   <img src="Hungry Lotus vid.gif" alt="demo" height="425">
@@ -71,8 +86,11 @@ Hungry Lotus
 <h1 align="center">
 Portfolio
 </h1>
+<div align="center">
 <a href=https://github.com/ZenTheMC/Portfolio>Code</a>
+ || 
 <a href=https://zensconsulting.netlify.app>Live Site</a>
+</div>
 <br />
 <div>
   <img src="Portfolio vid.gif" alt="demo" height="425">
