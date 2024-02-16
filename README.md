@@ -23,7 +23,7 @@ Zen Training
 </div>
 <br />
 <div>
-  <img src="Zen Training vid.gif" alt="demo" height="425">
+  <img src="Zen Training vid.gif" alt="demo">
 </div>
 <hr />
 
