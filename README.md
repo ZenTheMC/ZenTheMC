@@ -17,9 +17,9 @@
 Zen Training
 </h1>
 <div align="center">
-<a href=https://github.com/ZenTheMC/Zen-Training>Code</a>
+<kbd><a href=https://github.com/ZenTheMC/Zen-Training>Code</a></kbd>
  || 
-<a href=https://js-react-hypertrophy-app.web.app>Live Site</a>
+<kbd><a href=https://js-react-hypertrophy-app.web.app>Live Site</a></kbd>
 </div>
 <br />
 <div align="center">
@@ -31,9 +31,9 @@ Zen Training
 Zen Nutrition
 </h1>
 <div align="center">
-<a href=https://github.com/ZenTheMC/Zen-Nutrition>Code</a>
+<kbd><a href=https://github.com/ZenTheMC/Zen-Nutrition>Code</a></kbd>
  || 
-<a href=https://zen-nutrition.vercel.app>Live Site</a>
+<kbd><a href=https://zen-nutrition.vercel.app>Live Site</a></kbd>
 </div>
 <br />
 <div align="center">
@@ -45,9 +45,9 @@ Zen Nutrition
 Zenith
 </h1>
 <div align="center">
-<a href=https://github.com/ZenTheMC/Zenith>Code</a>
+<kbd><a href=https://github.com/ZenTheMC/Zenith>Code</a></kbd>
  || 
-<a href=https://zenith-ug18.onrender.com>Live Site</a>
+<kbd><a href=https://zenith-ug18.onrender.com>Live Site</a></kbd>
 </div>
 <br />
 <div align="center">
@@ -59,9 +59,9 @@ Zenith
 Nexus
 </h1>
 <div align="center">
-<a href=https://github.com/ZenTheMC/Nexus>Code</a>
+<kbd><a href=https://github.com/ZenTheMC/Nexus>Code</a></kbd>
  || 
-<a href=https://nexus-zen.vercel.app>Live Site</a>
+<kbd><a href=https://nexus-zen.vercel.app>Live Site</a></kbd>
 </div>
 <br />
 <div align="center">
@@ -73,9 +73,9 @@ Nexus
 Hungry Lotus
 </h1>
 <div align="center">
-<a href=https://github.com/ZenTheMC/Hungry-Lotus>Code</a>
+<kbd><a href=https://github.com/ZenTheMC/Hungry-Lotus>Code</a></kbd>
  || 
-<a href=https://hungry-lotus.vercel.app>Live Site</a>
+<kbd><a href=https://hungry-lotus.vercel.app>Live Site</a></kbd>
 </div>
 <br />
 <div align="center">
@@ -87,9 +87,9 @@ Hungry Lotus
 Portfolio
 </h1>
 <div align="center">
-<a href=https://github.com/ZenTheMC/Portfolio>Code</a>
+<kbd><a href=https://github.com/ZenTheMC/Portfolio>Code</a></kbd>
  || 
-<a href=https://zensconsulting.netlify.app>Live Site</a>
+<kbd><a href=https://zensconsulting.netlify.app>Live Site</a></kbd>
 </div>
 <br />
 <div align="center">
