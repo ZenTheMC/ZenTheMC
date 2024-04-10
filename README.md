@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Amaar!</h1>
+<h1 align="center">Hey there👋, I'm Amaar!</h1>
 <h3 align="center">A full-stack software engineer who is passionate about tech and progress!</h3>
 
 - 👨‍💻 My Portfolio: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
