@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Amaar!</h1>
-<h3 align="center">A passionate and driven full-stack software engineer!</h3>
+<h3 align="center">A full-stack software engineer who is passionate about tech and progress!</h3>
 
 - 👨‍💻 My Portfolio: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
 
