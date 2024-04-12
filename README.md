@@ -9,7 +9,7 @@
 
 - 📄 My Resume: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
-- ⚡ Fun fact: **I'm an optimist & futurist, passionate about fitness, anime, technological innovation and progress.**
+- ⚡ Fun fact about me: **I'm an optimist & futurist, passionate about fitness, anime, technological innovation and progress.**
 
 - <h1><strong>Here is some of my work :</strong></h1>
 
