@@ -1,13 +1,13 @@
 <h1 align="center">Hey there👋, I'm Amaar!</h1>
 <h3 align="center">A full-stack software engineer who is passionate about tech and progress!</h3>
 
-- 👨‍💻 My Portfolio: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
+- 👨‍💻 My Dev Portfolio: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
 
-- 📝 My Blog: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
+- 📝 My Blog about Futurism: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
 
-- 📫 My Email: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
+- 📫 Contact Me: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
 
-- 📄 My Resume: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
+- 📄 Check out my CV: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
 - ⚡ Fun fact about me: **I'm an optimist & futurist, passionate about fitness, anime, technological innovation and progress.**
 
