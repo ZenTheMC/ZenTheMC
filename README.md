@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact about me: **I'm an optimist, who is passionate about fitness, anime, tech innovation, futurism, and progress.**
 
-- ⚡ Fun fun fact: **I'm writing an anime story where the main character is named Zen, who is a depiction of what I would want to be.**
+- ⚡ Fun fun fact: **I'm writing an anime story where the main character is named Zen, who is what I would want to be.**
 
 - <h1><strong>My work :</strong></h1>
 
