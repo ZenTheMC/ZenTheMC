@@ -9,7 +9,9 @@
 
 - 📄 Check out my CV: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
-- ⚡ Fun fact about me: **I'm an optimist & futurist, passionate about fitness, anime, technological innovation and progress.**
+- ⚡ Fun fact about me: **I'm an optimist, who is passionate about fitness, anime, tech innovation, futurism, and progress.**
+
+- ⚡P.S. I'm writing an anime story where the main character is named Zen, who is a depiction of what I would would to be
 
 - <h1><strong>My work :</strong></h1>
 
