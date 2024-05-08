@@ -13,7 +13,7 @@
 
 - 🦸‍♂️ Fun Fact: **I'm writing an anime story with a protagonist named Zen.**
 
-- <h1><strong>Featured Work :</strong></h1>
+<h1><strong>Featured Work :</strong></h1>
 
 <h1 align="center">
 Zen Training
