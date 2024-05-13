@@ -11,7 +11,7 @@
 
 - ⚡ About me: **I'm an optimist, who is passionate about fitness, anime, tech innovation, futurism, and progress.**
 
-- 🦸‍♂️ Fun Fact: **I'm writing an anime story with a protagonist named Zen.**
+- 🦸‍♂️ Fun Fact: **I'm writing an anime story following a character named Zen.**
 
 <h1><strong>Featured Work :</strong></h1>
 
