@@ -86,7 +86,7 @@ Hungry Lotus
 <hr />
 
 <h1 align="center">
-My Web Dev Portfolio
+Dev Portfolio
 </h1>
 <div align="center">
 <kbd><a href=https://github.com/ZenTheMC/Portfolio>Code</a></kbd>
