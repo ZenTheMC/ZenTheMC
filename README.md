@@ -86,16 +86,16 @@ Hungry Lotus
 <hr />
 
 <h1 align="center">
-Dev Portfolio
+Dev Portfolio V2
 </h1>
 <div align="center">
-<kbd><a href=https://github.com/ZenTheMC/Portfolio>Code</a></kbd>
+<kbd><a href=https://github.com/ZenTheMC/portfolio-v2>Code</a></kbd>
  || 
-<kbd><a href=https://zensconsulting.netlify.app>Live Site</a></kbd>
+<kbd><a href=https://zenconsulting.vercel.app>Live Site</a></kbd>
 </div>
 <br />
 <div align="center">
-  <img src="Portfolio vid.gif" alt="Portfolio demo">
+  <img src="Portfolio2vid.gif" alt="Portfolio v2 demo">
 </div>
 <hr />
 
