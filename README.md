@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Amaar</h1>
 <h3 align="center">A full-stack software engineer</h3>
 
-- 👨‍💻 My Portfolio: <kbd><strong>[Zen Consulting](https://zensconsulting.netlify.app/)</strong></kbd>
+- 👨‍💻 My Portfolio: <kbd><strong>[Zen Consulting](https://zenconsulting.vercel.app/)</strong></kbd>
 
 - 📝 My Blog: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
 
