@@ -5,7 +5,7 @@
 
 - 📝 My Blog: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
 
-- 📫 Email Me: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
+- 📫 My Email: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
 
 - 📄 My CV: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
