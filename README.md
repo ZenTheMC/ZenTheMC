@@ -1,15 +1,15 @@
 <h1 align="center">Hi👋, I'm Amaar</h1>
 <h3 align="center">A full-stack software engineer</h3>
 
-- 👨‍💻 My Portfolio: <kbd><strong>[Zen Consulting](https://zenconsulting.vercel.app/)</strong></kbd>
+- 👨‍💻 Portfolio: <kbd><strong>[Zen Consulting](https://zenconsulting.vercel.app/)</strong></kbd>
 
-- 📝 My Blog: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
+- 📝 Blog: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
 
-- 📫 My Email: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
+- 📫 Email: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
 
-- 📄 My CV: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
+- 📄 CV: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
-- ⚡ About me: **I'm an optimist, who is passionate about fitness, anime, tech innovation, futurism, and progress.**
+- ⚡ About: **I'm an optimist, who is passionate about fitness, anime, tech innovation, futurism, and progress.**
 
 - 🦸‍♂️ Fun Fact: **I'm writing an anime story following a character named Zen.**
 
