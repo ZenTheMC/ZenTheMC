@@ -9,7 +9,7 @@
 
 - 📄 My Resume/CV: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
-- ⚡ About me: **I'm an optimist, who is passionate about fitness, anime, tech innovation, futurism, and progress!.**
+- ⚡ About me: **I'm an optimist, passionate about fitness, anime, and futurism!.**
 
 - 🦸‍♂️ Fun Fact: **I'm writing an anime story following a character named Zen.**
 
