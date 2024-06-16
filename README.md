@@ -3,7 +3,7 @@
 
 - 👨‍💻 Dev Portfolio: <kbd><strong>[Zen Consulting](https://zenconsulting.vercel.app/)</strong></kbd>
 
-- 📝 Medium Blog: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
+- 📝 My Blog: <kbd><strong>[Zen Writes](https://medium.com/@ZenTheMC/)</strong></kbd>
 
 - 📫 My Email: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
 
