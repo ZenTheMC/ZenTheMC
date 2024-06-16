@@ -7,7 +7,7 @@
 
 - 📫 My Email: <kbd><strong>**amaar5ali@gmail.com**</strong></kbd>
 
-- 📄 My Resume/CV: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
+- 📄 My Resume: <kbd><strong>[Resume](https://drive.google.com/file/d/1sWqRmObnnNJNXQ7MoMhZOnCK2HZShdDn/view?usp=sharing)</strong></kbd>
 
 - ⚡ About me: **I'm an optimist, passionate about fitness, anime, and futurism!.**
 
