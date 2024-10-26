@@ -15,89 +15,91 @@
 
 <h1><strong>Featured Work :</strong></h1>
 
-<h1 align="center">
-Zen Training
-</h1>
-<div align="center">
-<kbd><a href=https://github.com/ZenTheMC/Zen-Training>Code</a></kbd>
- || 
-<kbd><a href=https://js-react-hypertrophy-app.web.app>Live Site</a></kbd>
-</div>
-<br />
-<div align="center">
-  <img src="Zen Training vid.gif" alt="Zen Training demo">
-</div>
-<hr />
+<table width="100%">
+<tr>
+  <td width="50%" align="center">
+    <h1>Zen Training</h1>
+    <div>
+      <kbd><a href="https://github.com/ZenTheMC/Zen-Training">Code</a></kbd>
+      || 
+      <kbd><a href="https://js-react-hypertrophy-app.web.app">Live Site</a></kbd>
+    </div>
+    <br />
+    <div>
+      <img src="Zen Training vid.gif" alt="Zen Training demo">
+    </div>
+  </td>
 
-<h1 align="center">
-Zen Nutrition
-</h1>
-<div align="center">
-<kbd><a href=https://github.com/ZenTheMC/Zen-Nutrition>Code</a></kbd>
- || 
-<kbd><a href=https://zen-nutrition.vercel.app>Live Site</a></kbd>
-</div>
-<br />
-<div align="center">
-  <img src="Zen Nutrition vid.gif" alt="Zen Nutrition demo">
-</div>
-<hr />
+  <td width="50%" align="center">
+    <h1>Zen Nutrition</h1>
+    <div>
+      <kbd><a href="https://github.com/ZenTheMC/Zen-Nutrition">Code</a></kbd>
+      || 
+      <kbd><a href="https://zen-nutrition.vercel.app">Live Site</a></kbd>
+    </div>
+    <br />
+    <div>
+      <img src="Zen Nutrition vid.gif" alt="Zen Nutrition demo">
+    </div>
+  </td>
+</tr>
 
-<h1 align="center">
-Zenith
-</h1>
-<div align="center">
-<kbd><a href=https://github.com/ZenTheMC/Zenith>Code</a></kbd>
- || 
-<kbd><a href=https://zenith-ug18.onrender.com>Live Site</a></kbd>
-</div>
-<br />
-<div align="center">
-  <img src="Zenith vid.gif" alt="Zenith demo">
-</div>
-<hr />
+<tr>
+  <td width="50%" align="center">
+    <h1>Zenith</h1>
+    <div>
+      <kbd><a href="https://github.com/ZenTheMC/Zenith">Code</a></kbd>
+      || 
+      <kbd><a href="https://zenith-ug18.onrender.com">Live Site</a></kbd>
+    </div>
+    <br />
+    <div>
+      <img src="Zenith vid.gif" alt="Zenith demo">
+    </div>
+  </td>
 
-<h1 align="center">
-Nexus
-</h1>
-<div align="center">
-<kbd><a href=https://github.com/ZenTheMC/Nexus>Code</a></kbd>
- || 
-<kbd><a href=https://nexus-zen.vercel.app>Live Site</a></kbd>
-</div>
-<br />
-<div align="center">
-  <img src="Nexus vid.gif" alt="Nexus demo">
-</div>
-<hr />
+  <td width="50%" align="center">
+    <h1>Nexus</h1>
+    <div>
+      <kbd><a href="https://github.com/ZenTheMC/Nexus">Code</a></kbd>
+      || 
+      <kbd><a href="https://nexus-zen.vercel.app">Live Site</a></kbd>
+    </div>
+    <br />
+    <div>
+      <img src="Nexus vid.gif" alt="Nexus demo">
+    </div>
+  </td>
+</tr>
 
-<h1 align="center">
-Hungry Lotus
-</h1>
-<div align="center">
-<kbd><a href=https://github.com/ZenTheMC/Hungry-Lotus>Code</a></kbd>
- || 
-<kbd><a href=https://hungry-lotus.vercel.app>Live Site</a></kbd>
-</div>
-<br />
-<div align="center">
-  <img src="Hungry Lotus vid.gif" alt="Hungry Lotus demo">
-</div>
-<hr />
+<tr>
+  <td width="50%" align="center">
+    <h1>Hungry Lotus</h1>
+    <div>
+      <kbd><a href="https://github.com/ZenTheMC/Hungry-Lotus">Code</a></kbd>
+      || 
+      <kbd><a href="https://hungry-lotus.vercel.app">Live Site</a></kbd>
+    </div>
+    <br />
+    <div>
+      <img src="Hungry Lotus vid.gif" alt="Hungry Lotus demo">
+    </div>
+  </td>
 
-<h1 align="center">
-Dev Portfolio V2
-</h1>
-<div align="center">
-<kbd><a href=https://github.com/ZenTheMC/portfolio-v2>Code</a></kbd>
- || 
-<kbd><a href=https://zenconsulting.vercel.app>Live Site</a></kbd>
-</div>
-<br />
-<div align="center">
-  <img src="Portfolio2vid.gif" alt="Portfolio v2 demo">
-</div>
-<hr />
+  <td width="50%" align="center">
+    <h1>Dev Portfolio V2</h1>
+    <div>
+      <kbd><a href="https://github.com/ZenTheMC/portfolio-v2">Code</a></kbd>
+      || 
+      <kbd><a href="https://zenconsulting.vercel.app">Live Site</a></kbd>
+    </div>
+    <br />
+    <div>
+      <img src="Portfolio2vid.gif" alt="Portfolio v2 demo">
+    </div>
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
